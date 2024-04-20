@@ -1,7 +1,7 @@
-select 'Person AA' as first_name
+select 'Vanya' as first_name
 union all
-select 'Person BB' as first_name
+select 'Petya' as first_name
 union all
-select 'Person CC' as first_name
+select 'Sveta' as first_name
 union all
-select 'Person DD' as first_name
+select 'Olya' as first_name
