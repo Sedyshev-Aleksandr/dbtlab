@@ -1,6 +1,6 @@
-select 'Person1' as first_name
+select 'DEV1' as first_name
 union all
-select 'Person2' as first_name
+select 'DEV2' as first_name
 union all
 select 'Person3' as first_name
 union all
