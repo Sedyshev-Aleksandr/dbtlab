@@ -1,4 +1,6 @@
-select 'Vanya' as first_name
+select 'PROD1' as first_name
+union all
+select 'PROD2' as first_name
 union all
 select 'Petya' as first_name
 union all
