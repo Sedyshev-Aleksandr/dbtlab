@@ -1,7 +1,9 @@
-select 'Person1' as first_name
+select 'MERGE_2' as first_name
 union all
-select 'Person2' as first_name
+select 'MERGE_2' as first_name
 union all
-select 'Person3' as first_name
+select 'Petya' as first_name
 union all
-select 'Person4' as first_name
+select 'Sveta' as first_name
+union all
+select 'Olya' as first_name
