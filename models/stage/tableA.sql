@@ -1,4 +1,4 @@
-select 'MAIN PROD' as first_name
+select 'test1' as first_name
 union all
 select 'MAIN PROD' as first_name
 union all
