@@ -1,6 +1,6 @@
-select 'MERGE_2' as first_name
+select 'MAIN PROD' as first_name
 union all
-select 'MERGE_2' as first_name
+select 'MAIN PROD' as first_name
 union all
 select 'Petya' as first_name
 union all
