@@ -1,6 +1,6 @@
-select 'TEMP1' as first_name
+select 'temp111' as first_name
 union all
-select 'TEMP1' as first_name
+select 'temp111' as first_name
 union all
 select 'Petya' as first_name
 union all
