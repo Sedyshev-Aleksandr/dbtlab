@@ -1,7 +1,7 @@
-ProductID,SalesTarget,Region
-1234,200000,RegionA
-4321,350000,RegionB
-2341,123000,RegionC
-5432,500000,RegionD
-9999,900000,RegionE
-8888,800000,RegionF
+ProductID,SalesTarget,Region,Category
+1234,200000,RegionA,Category1
+4321,350000,RegionB,Category2
+2341,123000,RegionC,Category3
+5432,500000,RegionD,Category4
+9999,900000,RegionE,Category5
+8888,800000,RegionF,Category6
