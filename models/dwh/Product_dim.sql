@@ -1,6 +1,3 @@
 select t.ProductID, 
-       t.SalesTarget,
-       t.Region,
-       t.Category,
-       concat(t.Category,'___',t.Region) as CatRegion
+       t.SalesTarget
 from {{ ref('product') }} t

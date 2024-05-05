@@ -8,7 +8,7 @@
 
     {%- elif var('database_name',target.name) == "prod" -%}
 
-        {{ custom_schema_name | trim }}       
+        {{ custom_schema_name | trim }} 
 
     {%- else -%}
 
