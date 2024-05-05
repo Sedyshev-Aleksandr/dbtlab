@@ -1,7 +1,0 @@
-version: 2
-
-models:
-
-  - name: tableA
-    columns:
-      - name: first_name
