@@ -3,4 +3,3 @@
 target/
 dbt_packages/
 logs
-macros/generate_database_name.sql
