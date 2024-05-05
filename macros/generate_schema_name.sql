@@ -6,6 +6,10 @@
 
         {{ default_schema }}  
 
+    {%- elif var('database_name',target.name) == "prod" -%}
+
+        {{ custom_schema_name | trim }} 
+
     {%- else -%}
 
         {{ default_schema }}_{{ custom_schema_name | trim }}
