@@ -6,4 +6,4 @@ select  'full_name 3' as full_name, 'email3' as email, 'address3' as address, '6
 union all
 select  'full_name 4' as full_name, 'email4' as email, 'address4' as address, '98765432' as phone, '1234567' as home_phone
 union all
-select  'full_name 5' as full_name, 'email5' as email, 'address5' as address, '22334456' as phone, '1234567' as home_phone 
+select  'full_name 6' as full_name, 'email5' as email, 'address5' as address, '22334456' as phone, '1234567' as home_phone 
